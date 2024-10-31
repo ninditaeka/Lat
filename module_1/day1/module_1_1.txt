@@ -1,0 +1,58 @@
+Asynchronous=parallel
+JS bisa running di 4 tempat server, browser, mobile,desktop
+elktron mengubah web base jadi desktop aplikasi
+server node js
+Bahasa JS, engine nodeJS
+
+
+windows dir
+mdk make directory
+baca isi file di terminal pakai cat
+
+
+box a=16
+box a= variabel, 16 nilai/value
+tipe data terdapat pada nilai/value
+
+
+let name ="Nindi" declare dan assign (mengisi)
+console.log (name) untuk memanggil isi name  (hasil akan Nindi)
+
+Kalo pakai let bisa di assign ulang
+
+assign dan declare
+var bisa di redeclare dan di reassign
+let gabisa di redeclare tapi bisa di assing
+declare pakai let/var/const
+declare langsung pakai nama variable untuk memanggil value didlm variable
+
+
+
+untuk const variable harus huruf besar semua cek Airbnb javascript style
+
+
+data type:2
+1.primitive =niali hnya satu nilai, number, string dan boolean
+2.struktural = non primitive (bisa menyimpan lebih dari satu nilai) array 
+
+true 1 dan false 0
+null = 
+undefine tidak diisi nilainya
+
+
+Nan = Not a number harusya isinya number tapi malah diisinstring atau booleaan
+npx tsc nama file = cara convert ts ke js
+
+typescript untuk object perlu declare typescript dengan interface 
+
+
+
+
+untuk mendapatkan tanggal
+
+
+
+
+
+
+

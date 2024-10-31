@@ -1,0 +1,20 @@
+conditional = percabangan
+loop = pengulangan
+
+conditional statement, lampu merah, menggunakan if, switch, 
+
+
+== hanya liat nilai/value
+=== sampai liat tipe datanya (lebih detail) dan juga melihat nilai/valuenya
+
+switch
+
+if== maka acuan switch
+
+
+i++ = i=i+1
+
+
+
+ 
+
